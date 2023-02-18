@@ -15,4 +15,4 @@ Warning ! Do not change relative positioin of E and P in distribution, E first a
 Warning ! Due to random nature of the map, if you increase too much the wall in distribution, there will be no path possible and you'll end up with a non-valid map <br>
 
 ## Use
-map_gen take 2 or 3 argument : map's name, height and width (width can be ignored for a square map <br>
+map_gen take 2 or 3 argument : map's name, height and width (width can be ignored for a square map) <br>
