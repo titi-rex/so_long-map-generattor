@@ -6,7 +6,7 @@
 /*   By: tlegrand <tlegrand@student.42lyon.fr>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/18 17:18:51 by tlegrand          #+#    #+#             */
-/*   Updated: 2023/02/18 22:44:40 by tlegrand         ###   ########.fr       */
+/*   Updated: 2023/02/20 12:39:12 by tlegrand         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -31,4 +31,5 @@ int		ft_atoi(const char *str);
 int		ft_strncmp(const char *s1, const char *s2, size_t n);
 char	*ft_strjoin(char const *s1, char const *s2);
 void	ft_putendl_fd(char *s, int fd);
+
 #endif
